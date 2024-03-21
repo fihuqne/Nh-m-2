@@ -1,0 +1,28 @@
+CustomerID: Mã số của khách hàng.
+Churn: Trạng thái churn của khách hàng, có thể là "Yes" (rời bỏ) hoặc "No" (không rời bỏ).
+MonthlyRevenue: Doanh thu hàng tháng của khách hàng.
+MonthlyMinutes: Số phút sử dụng hàng tháng của khách hàng.
+TotalRecurringCharge: Tổng lệ phí định kỳ hàng tháng.
+DirectorAssistedCalls: Số cuộc gọi được hỗ trợ bởi giám đốc.
+OverageMinutes: Số phút vượt giới hạn hàng tháng.
+RoamingCalls: Số cuộc gọi lưu động.
+PercChangeMinutes: Tỷ lệ thay đổi phút sử dụng so với tháng trước.
+PercChangeRevenues: Tỷ lệ thay đổi doanh thu so với tháng trước.
+DroppedCalls: Số cuộc gọi bị từ chối hoặc kết thúc đột ngột.
+BlockedCalls: Số cuộc gọi bị chặn.
+UnansweredCalls: Số cuộc gọi không được trả lời.
+CustomerCareCalls: Số cuộc gọi tới dịch vụ chăm sóc khách hàng.
+ThreewayCalls: Số cuộc gọi ba chiều.
+ReceivedCalls: Số cuộc gọi đến.
+OutboundCalls: Số cuộc gọi đi.
+InboundCalls: Số cuộc gọi đến.
+PeakCallsInOut: Số cuộc gọi đỉnh hàng ngày (đến và đi).
+OffPeakCallsInOut: Số cuộc gọi ngoại giờ hàng ngày (đến và đi).
+DroppedBlockedCalls: Số cuộc gọi bị từ chối hoặc chặn.
+CallForwardingCalls: Số cuộc gọi chuyển tiếp.
+CallWaitingCalls: Số cuộc gọi đang chờ.
+MonthsInService: Số tháng sử dụng dịch vụ.
+UniqueSubs: Số lượng thuê bao duy nhất.
+ActiveSubs: Số lượng thuê bao hoạt động.
+ServiceArea: Khu vực dịch vụ.
+và các thuộc tính khác như Handsets, IncomeGroup, CreditRating, Occupation, MaritalStatus, vv.
